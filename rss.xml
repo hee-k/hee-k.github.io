@@ -7,34 +7,34 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo Theme MemE</title>
-        <link>https://example.com/</link>
+        <title>Heek&#39;s blog</title>
+        <link>https://hee-k.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.95.0 https://gohugo.io/</generator>
         
             <language>en</language>
         
         
-            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+            <managingEditor>manager.heek@gmail.com (heek)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+            <webMaster>manager.heek@gmail.com (heek)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sat, 19 Mar 2022 01:04:25 &#43;0900</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 01:23:13 &#43;0900</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://hee-k.github.io/rss.xml" />
         
         
             <item>
                 <title>Cpp</title>
-                <link>https://example.com/posts/cpp/</link>
-                <guid isPermaLink="true">https://example.com/posts/cpp/</guid>
+                <link>https://hee-k.github.io/posts/cpp/</link>
+                <guid isPermaLink="true">https://hee-k.github.io/posts/cpp/</guid>
                 <pubDate>Sat, 19 Mar 2022 00:55:53 &#43;0900</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>manager.heek@gmail.com (heek)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -124,11 +124,11 @@
         
             <item>
                 <title>Hello World</title>
-                <link>https://example.com/posts/hello-world/</link>
-                <guid isPermaLink="true">https://example.com/posts/hello-world/</guid>
+                <link>https://hee-k.github.io/posts/hello-world/</link>
+                <guid isPermaLink="true">https://hee-k.github.io/posts/hello-world/</guid>
                 <pubDate>Sat, 19 Mar 2022 00:31:56 &#43;0900</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>manager.heek@gmail.com (heek)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
