@@ -7,17 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/syntax/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>heek&#39;s first post</title>
-        <link>https://example.com/p/heeks-first-post/</link>
-        <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/p/heeks-first-post/</guid>
-        <description>&lt;h2 id=&#34;my-macbookair15&#34;&gt;My MacbookAir15&lt;/h2&gt;
-&lt;p&gt;이 글은 맥북에어 15에서 쓰고 있는 테스트 글입니다.&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/syntax/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Markdown Syntax Guide</title>
         <link>https://example.com/p/markdown-syntax-guide/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
